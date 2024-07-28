@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "datatables.net": "^2.1.2",
+    "datatables.net-bs5": "^2.1.2",
+    "jquery": "^3.7.1"
+  }
+}
